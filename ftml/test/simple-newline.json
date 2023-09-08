@@ -1,0 +1,24 @@
+{
+    "input": "\n",
+    "tree": {
+        "elements": [
+            {
+                "element": "footnote-block",
+                "data": {
+                    "title": null,
+                    "hide": false
+                }
+            }
+        ],
+        "styles": [
+        ],
+        "table-of-contents": [
+        ],
+        "footnotes": [
+        ],
+        "bibliographies": [
+        ]
+    },
+    "errors": [
+    ]
+}
